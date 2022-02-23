@@ -1,0 +1,2 @@
+﻿  main.cpp
+F:\Marci\inspired\programmin\graphics_programming\vulkanTutorial\vulkan-tutorial-follow-along\VulkanTutorial\libs\glfw-3.3.6.bin.WIN64\glfw-3.3.6.bin.WIN64\include\GLFW\glfw3.h(111,12): fatal error C1083: Cannot open include file: 'vulkan/vulkan.h': No such file or directory

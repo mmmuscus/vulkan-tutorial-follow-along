@@ -1,3 +1,2 @@
 ﻿  main.cpp
-LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
   VulkanTutorial.vcxproj -> F:\Marci\inspired\programmin\graphics_programming\vulkanTutorial\vulkan-tutorial-follow-along\VulkanTutorial\x64\Debug\VulkanTutorial.exe

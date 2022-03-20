@@ -1,0 +1,11 @@
+﻿  main.cpp
+F:\Marci\inspired\programmin\graphics_programming\vulkanTutorial\vulkan-tutorial-follow-along\VulkanTutorial\main.cpp(1009,1): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3041 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VulkanTutorial.vcxproj -> F:\Marci\inspired\programmin\graphics_programming\vulkanTutorial\vulkan-tutorial-follow-along\VulkanTutorial\x64\Release\VulkanTutorial.exe
